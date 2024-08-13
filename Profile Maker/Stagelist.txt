@@ -1,0 +1,20 @@
+# This is the format that Stagelist.txt should be in
+# Maximum of 7 Starters, Minimum of 2 (2 <= x <= 7)
+# Maximum of 5 Counterpicks (1 <= x <= 5)
+======================================================
+# FORMAT:
+Starters:
+Battlefield
+Fountain of Dreams
+Yoshi's Story
+Metal Cavern
+Temple of Time
+
+Counterpicks:
+Final Destination
+Pokémon Stadium 2
+Green Hill Zone
+Smashville
+
+DSR:
+on
