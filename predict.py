@@ -149,8 +149,8 @@ print(sR[0],sR[1]+'-'+sR[2],sR[3])
 print(gR[0],gR[1]+'-'+gR[2],gR[3])
 
 if sR[1] == '0' and sR[2] == '0':
-    sWR = 1
-    gWR = 1
+    sWR = 0.5
+    gWR = 0.5
 else:
     sWR = int(sR[1])/(int(sR[2])+int(sR[1]))
     gWR = int(gR[1])/(int(gR[2])+int(gR[1]))
