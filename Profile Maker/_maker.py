@@ -72,15 +72,28 @@ for stage in stagelist:
 
 stagerank = []
 listed_rank = input('')
-stagerank = re.findall(r'[^,\s\n\(\)\[\]]+',listed_rank)
-for s in stagerank:
+stagerank_raw = re.findall(r'[^,\s\n\(\)\[\]]+',listed_rank)
+stagerank = []
+print(stagerank_raw)
+for s in stagerank_raw:
     #print('\n',s)
     for stage in starters:
         #print(stage)
-        if s == give_acronym(stage)[0]:
-            starter_abb.append(s)
-            #print(s)
-#print(starter_abb)
+        acro = give_acronym(stage)[0]
+        #print(s.lower(),acro.lower())
+        if s.lower() == acro.lower():
+            starter_abb.append(acro)
+            stagerank.append(acro) 
+            break
+    for stage in counterpicks:
+        acro = give_acronym(stage)[0]
+        #print(s.lower(),acro.lower())
+        if s.lower() == acro.lower():
+            stagerank.append(acro)
+            break
+            
+print(starter_abb)
+print(stagerank)
 
 #Closer/Choker
 print('')
