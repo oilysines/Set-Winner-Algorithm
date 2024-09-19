@@ -310,10 +310,10 @@ while True:
 
 #Closer and Choker modifiers
 bo3_Closer = [1,1.075,1.15]
-bo5_Closer = [1,1.03,1.06,1.09,1.12,1.15]
+bo5_Closer = [1,1.0375,1.075,1.1125,1.15]
 
 bo3_Choker = [1.15,1.075,1]
-bo5_Choker = [1.15,1.12,1.09,1.06,1.03,1]
+bo5_Choker = [1.15,1.1125,1.075,1.0375,1]
 
 if winvar == 2:
     p1PlayList = 'bo3_'+p1type
