@@ -4,11 +4,12 @@ import json
 import datetime
 
 path = os.getcwd()
+back = os.path.dirname(path)
 
 print(datetime.datetime.now())
 
 #credentials
-with open(r'%s\credentials.json' % path) as cred:
+with open(r'%s\credentials.json' % back) as cred:
     data = json.load(cred)
     sheet_id = data['Link']
     API_Key = data['API KEY']

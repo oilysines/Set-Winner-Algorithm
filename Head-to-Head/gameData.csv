@@ -1,29 +1,34 @@
-2024-07-18 15:36:06.245867
+2024-09-25 11:38:55.839316
 Sakura,2,0,Regaltoad
-Sakura,10,5,Prominence
+Sakura,10,8,Prominence
 Sakura,7,2,Sunset
-Sakura,6,2,[REDACTED]
+Sakura,8,2,[REDACTED]
+Sakura,5,5,Silver
 Sakura,3,1,Hoshikage
 Sakura,6,1,DaveTM
 Sakura,2,0,The Crimson
 Sakura,6,7,Tendrii
 Sakura,2,0,Josh
+Sakura,2,0,Jimmy
 Regaltoad,0,2,Sakura
 Regaltoad,1,2,Hyperspeed
-Prominence,5,10,Sakura
+Prominence,8,10,Sakura
 Prominence,2,1,Hyperspeed
 Prominence,6,7,Sunset
 Prominence,2,0,oilysines
 Prominence,6,0,Perci
 Prominence,5,3,[REDACTED]
-Prominence,13,11,Silver
+Prominence,17,16,Silver
 Prominence,3,1,Hoshikage
 Prominence,8,9,DaveTM
 Prominence,5,1,KnuX
 Prominence,2,1,The Crimson
 Prominence,3,2,Tendrii
 Prominence,2,1,9by
+Prominence,3,0,Mighton
 Prominence,2,0,Earl
+Prominence,2,0,Pubtools
+Prominence,2,0,FALLEN
 Hyperspeed,2,1,Regaltoad
 Hyperspeed,1,2,Prominence
 Hyperspeed,2,1,Perci
@@ -54,6 +59,9 @@ mike$$,0,2,Tendrii
 mike$$,2,0,ToonLinkMasta
 mike$$,2,1,Orbot
 mike$$,2,0,Pubtools
+mike$$,2,0,Poppercorn
+mike$$,1,2,Niko
+mike$$,1,2,FALLEN
 oilysines,0,2,Prominence
 oilysines,0,4,Sunset
 oilysines,3,2,Perci
@@ -64,6 +72,9 @@ oilysines,1,3,KnuX
 oilysines,0,2,Mighton
 oilysines,2,1,SOAR THE EAGLE
 oilysines,2,1,parmesancheese
+oilysines,2,0,Pubtools
+oilysines,1,2,Niko
+oilysines,0,2,FALLEN
 Perci,0,6,Prominence
 Perci,1,2,Hyperspeed
 Perci,2,0,mike$$
@@ -77,20 +88,25 @@ Perci,2,0,Staci
 Perci,0,2,Zooey
 Perci,2,1,SOAR THE EAGLE
 Perci,2,1,Bolts
-[REDACTED],2,6,Sakura
+[REDACTED],2,8,Sakura
 [REDACTED],3,5,Prominence
 [REDACTED],4,0,mike$$
 [REDACTED],5,2,oilysines
-[REDACTED],3,5,Silver
+[REDACTED],5,8,Silver
 [REDACTED],5,4,Hoshikage
 [REDACTED],1,3,DaveTM
 [REDACTED],0,2,KnuX
 [REDACTED],6,4,Tendrii
 [REDACTED],2,0,9by
 [REDACTED],2,0,ToonLinkMasta
-Silver,11,13,Prominence
+[REDACTED],3,1,Mighton
+[REDACTED],2,1,Tommy
+[REDACTED],2,0,Niko
+[REDACTED],2,1,Captain Fuzz
+Silver,5,5,Sakura
+Silver,16,17,Prominence
 Silver,2,0,Perci
-Silver,5,3,[REDACTED]
+Silver,8,5,[REDACTED]
 Silver,1,2,DaveTM
 Silver,4,4,KnuX
 Silver,0,3,Tendrii
@@ -98,6 +114,9 @@ Silver,2,0,Staci
 Silver,2,0,Zooey
 Silver,2,0,Pubtools
 Silver,2,1,The Doctor
+Silver,2,0,Poppercorn
+Silver,2,1,Niko
+Silver,3,2,Hater
 Hoshikage,1,3,Sakura
 Hoshikage,1,3,Prominence
 Hoshikage,2,3,Sunset
@@ -182,11 +201,15 @@ Belinda,0,2,KnuX
 Belinda,1,2,ToonLinkMasta
 Z LB 108U Z,0,2,Tendrii
 Z LB 108U Z,1,2,Staci
+Mighton,0,3,Prominence
 Mighton,2,1,Hyperspeed
 Mighton,2,1,Sunset
 Mighton,2,0,oilysines
+Mighton,1,3,[REDACTED]
 Mighton,1,5,Tendrii
 Mighton,2,0,Staci
+Mighton,2,1,Hater
+Mighton,2,0,Captain Fuzz
 Charlie,0,2,Hyperspeed
 Charlie,0,2,Sunset
 Zooey,2,1,Hyperspeed
@@ -204,13 +227,17 @@ Bolts,1,2,Hoshikage
 Bolts,2,1,parmesancheese
 parmesancheese,1,2,oilysines
 parmesancheese,1,2,Bolts
+Jimmy,0,2,Sakura
 Jimmy,0,4,DaveTM
 Jimmy,0,2,Orbot
 Jimmy,0,2,The Doctor
+Jimmy,0,2,Tommy
 Orbot,1,2,mike$$
 Orbot,2,0,Jimmy
 Orbot,0,2,The Doctor
+Pubtools,0,2,Prominence
 Pubtools,0,2,mike$$
+Pubtools,0,2,oilysines
 Pubtools,0,2,Silver
 Pubtools,2,1,TWB87
 The Doctor,1,2,Hyperspeed
@@ -223,3 +250,26 @@ The Doctor,2,0,Orbot
 The Doctor,2,0,TWB87
 TWB87,1,2,Pubtools
 TWB87,0,2,The Doctor
+Tommy,1,2,[REDACTED]
+Tommy,2,0,Jimmy
+Tommy,1,2,Hater
+Poppercorn,0,2,mike$$
+Poppercorn,0,2,Silver
+Niko,2,1,mike$$
+Niko,2,1,oilysines
+Niko,0,2,[REDACTED]
+Niko,1,2,Silver
+FALLEN,0,2,Prominence
+FALLEN,2,1,mike$$
+FALLEN,2,0,oilysines
+FALLEN,0,2,Hater
+Hater,2,3,Silver
+Hater,1,2,Mighton
+Hater,2,1,Tommy
+Hater,2,0,FALLEN
+Hater,2,0,THE Luigiguy
+THE Luigiguy,0,2,Hater
+THE Luigiguy,1,2,Captain Fuzz
+Captain Fuzz,1,2,[REDACTED]
+Captain Fuzz,0,2,Mighton
+Captain Fuzz,2,1,THE Luigiguy
